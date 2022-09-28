@@ -1,5 +1,6 @@
 # simple gcloud commands for extracting all instances with a GPU attached
 # outputs to the console as a table
+# Jeremy Hannan June 2022
 
 #!/bin/bash
 
